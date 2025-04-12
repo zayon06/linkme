@@ -23,7 +23,8 @@ body {
 .poster-pic img {
     width: 220px;
     height: 220px;
-    border-radius: 50%; /* Slightly bolder blue border */
+    border-radius: 50%;
+    border: 5px solid #74b9ff; /* Slightly bolder blue border */
     box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.15); /* Enhanced shadow for depth */
     transition: transform 0.3s ease-in-out; /* Smooth hover effect */
 }
@@ -39,10 +40,11 @@ body {
     text-decoration: none;
     height: 55px;
     width: 400px;
-    color: black; /* Richer blue for links */
+    color: #1e3799; /* Richer blue for links */
     font-size: 1.4em;
     font-family: 'Lato', sans-serif; /* Modern sans-serif font for links */
-    background-color: white; /* Softer blue background */
+    background-color: #dff9fb; /* Softer blue background */
+    border: 2px solid #b1e6ffea; /* Consistent blue border */
     border-radius: 50px; /* Slightly rounded corners */
     transition: all 0.4s ease-in-out;
     margin: 15px 0;
@@ -51,7 +53,7 @@ body {
 
 .center > .social-links > .link a:hover {
     color: #ffffff; /* White text on hover */
-    background-color: black; /* Rich blue background on hover */
+    background-color: #1e3799; /* Rich blue background on hover */
     letter-spacing: 1.5px;
     box-shadow: 0px 6px 20px rgba(30, 55, 153, 0.4); /* Glow effect */
     transform: scale(1.08); /* Slight zoom effect */
@@ -62,7 +64,7 @@ body {
 }
 
 #caption {
-    color: white;; /* Rich blue for the caption */
+    color: #b1e6ffea;; /* Rich blue for the caption */
     font-size: 1.8em; /* Slightly larger font for emphasis */
     text-align: center;
     margin: 25px;
@@ -71,7 +73,7 @@ body {
 
 /* Name style */
 .name{
-    color: black ;
+    color: #1e3799 ;
     font-family: 'Merriweather', serif; 
 }
 
