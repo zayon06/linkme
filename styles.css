@@ -43,7 +43,6 @@ body {
     font-size: 1.4em;
     font-family: 'Lato', sans-serif; /* Modern sans-serif font for links */
     background-color: white; /* Softer blue background */
-    border: 2px solid #b1e6ffea; /* Consistent blue border */
     border-radius: 50px; /* Slightly rounded corners */
     transition: all 0.4s ease-in-out;
     margin: 15px 0;
