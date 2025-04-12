@@ -23,8 +23,7 @@ body {
 .poster-pic img {
     width: 220px;
     height: 220px;
-    border-radius: 50%;
-    border: 5px solid #74b9ff; /* Slightly bolder blue border */
+    border-radius: 50%; /* Slightly bolder blue border */
     box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.15); /* Enhanced shadow for depth */
     transition: transform 0.3s ease-in-out; /* Smooth hover effect */
 }
