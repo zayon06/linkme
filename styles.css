@@ -64,17 +64,17 @@ body {
 }
 
 #caption {
-    color: #1e3799; /* Rich blue for the caption */
+    color: #b1e6ffea;; /* Rich blue for the caption */
     font-size: 1.8em; /* Slightly larger font for emphasis */
     text-align: center;
     margin: 25px;
-    font-family: 'Merriweather', serif; /* Consistent serif font */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;/* Consistent serif font */
 }
 
 /* Name style */
 .name{
-    color: #b1e6ffea;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1e3799 ;
+    font-family: 'Merriweather', serif; 
 }
 
 /* Responsive Design */
