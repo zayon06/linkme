@@ -71,6 +71,12 @@ body {
     font-family: 'Merriweather', serif; /* Consistent serif font */
 }
 
+/* Name style */
+.name{
+    color: #b1e6ffea;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 /* Responsive Design */
 @media screen and (max-width: 600px) {
     .poster-pic img {
